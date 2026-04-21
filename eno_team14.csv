@@ -1,0 +1,4 @@
+codigo_comuna,nombre_comuna,eno_total,eno_chilean,eno_foreign,eno_desconocido,eno_top3_diseases,eno_rate_per_10k
+13103,Cerro Navia,1002,565,127,310,"VIH, Coqueluche, Parotiditis",79.43554780402727
+13121,Pedro Aguirre Cerda,910,452,102,356,"VIH, Parotiditis, Coqueluche",95.39784044449104
+13132,Vitacura,538,238,50,250,"Parotiditis, VIH, Coqueluche",62.922504736731305
